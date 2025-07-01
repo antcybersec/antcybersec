@@ -1,5 +1,8 @@
 <h1 align="center" style="font-weight:bold; font-size: 3rem; background: -webkit-linear-gradient(#ff00cc, #3333ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  Hi 👋, I'm Anant Kumar
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b2b,ff416c&height=200&section=header&text=Anant%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 </h1>
 
 <h3 align="center" style="color:#ff66cc;">🚀 Full Stack Developer | Cloud & DevOps Enthusiast | Learner for Life 💡</h3>
