@@ -57,5 +57,8 @@
 ### 🎯 Quote of the Day
 
 <p align="center">
-  <img src="https://readme-quote.vercel.app/api?theme=radical" alt="quote" />
+  ### 🎯 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
 </p>
