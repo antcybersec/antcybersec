@@ -1,69 +1,119 @@
-<h1 align="center" style="font-weight:bold; font-size: 3rem; background: -webkit-linear-gradient(#ff00cc, #3333ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+<pre align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&lines=Anant+Kumar" alt="Typing SVG" />
-</h1>
+ █████╗ ███╗   ██╗ █████╗ ███╗   ██╗████████╗
+██╔══██╗████╗  ██║██╔══██╗████╗  ██║╚══██╔══╝
+███████║██╔██╗ ██║███████║██╔██╗ ██║   ██║
+██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║   ██║
+██║  ██║██║ ╚████║██║  ██║██║ ╚████║   ██║
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝
 
+ANANT KUMAR :: SYSTEM INITIALIZED
 
-</h1>
-
-<h3 align="center" style="color:#ff66cc;">🚀 Full Stack Developer | Cloud & DevOps Enthusiast | Learner for Life 💡</h3>
-
-<br />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=antcybersec&label=Profile%20views&color=brightgreen&style=flat-square" alt="antcybersec" />
-</p>
+</pre>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=antcybersec&theme=radical&margin-w=15&margin-h=15&row=1&column=6" alt="Trophies" />
-  </a>
+Full Stack Engineer • Web3 Builder • Cybersecurity Mindset
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🖥 Identity Console
 
-<p align="left">
-  <a href="https://twitter.com/anantku44389160" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
-  </a>
-  <!-- Add LinkedIn/GitHub/Portfolio links here if you have -->
+```bash
+anant@cybernode:~$ whoami
+
+Engineer focused on secure full-stack systems,
+blockchain infrastructure, and scalable architecture.
+
+Status  : Building daily
+Mode    : Production mindset
+Focus   : Web + Web3 + Security
+Mission : Ship software that survives reality
+```
+
+---
+
+## ⚙ Core Skill Matrix
+
+```bash
+> loading skill modules...
+
+[████████████] Full Stack Engineering
+[██████████░░] Web3 Systems
+[█████████░░░] Cybersecurity Practices
+[████████░░░░] Cloud & DevOps
+[███████░░░░░] Distributed Systems
+
+modules loaded successfully ✔
+```
+
+---
+
+## 🧰 Tech Terminal
+
+```bash
+Languages    → JavaScript • TypeScript • Python • Go • C/C++ • Rust
+Frontend     → React • Next.js • HTML • CSS
+Backend      → Node.js • Express • GraphQL
+Databases    → PostgreSQL • MongoDB • Redis
+Infra        → Docker • Kubernetes • AWS • NGINX
+Security     → Auth systems • JWT • Secure architecture
+Web3         → Smart contracts • Wallet integration • dApps
+```
+
+---
+
+## 📊 System Telemetry
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=antcybersec&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</p>
+
+```bash
+> telemetry backup console
+
+commits      : streaming
+repositories : active
+languages    : indexed
+uptime       : stable
+
+fallback mode engaged ✔
+```
+---
+
+## 🌐 Network Access
+
+```
+LinkedIn → https://www.linkedin.com/in/anant-kumar-0253a0281/
+GitHub   → https://github.com/antcybersec
+Twitter  → https://twitter.com/anantku44389160
+```
+
+---
+
+## 🎯 Operating Principles
+
+```bash
+secure by design
+automate everything repeatable
+measure before scaling
+ship > overthink
+```
+
+---
+
+## 🌧 Matrix Stream
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,vue,nextjs,html,css" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,rust" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,graphql,kafka" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=git,github,tensorflow,pytorch" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antcybersec&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antcybersec&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180px"/>
-</p>
-
----
-
-### 🎯 Quote of the Day
-
-<p align="center">
-  ### 🎯 Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
-</p>
+<pre align="center">
+SYSTEM STATUS: ACTIVE
+LEARNING: CONTINUOUS
+BUILD MODE: ENABLED
+</pre>
